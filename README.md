@@ -1,6 +1,6 @@
 TO D0 LIST
 
-This coding is intended to train skills in the backend. You guys can refer to this source for more detail and I also provide his GitHub
+This coding is intended to train skills for backend. You guys can refer to this source for more detail and I also provide his GitHub
 
 Credit:
 
